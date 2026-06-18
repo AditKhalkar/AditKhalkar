@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I'm%20Adit%20Khalkar!;Data%20%26%20Business%20Analyst;Former%20ZS%20Associates%20Consultant;MS%20MIS%20Graduate%20%40%20Texas%20A%26M%20University;Turning%20Data%20Into%20Business%20Insights&font=Fira%20Code&center=true&width=750&height=45&color=800000&vCenter=true&pause=1000&size=22" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I'm%20Adit%20Khalkar!;Data%20%26%20Business%20Analyst;Turning%20Data%20Into%20Business%20Insights&font=Fira%20Code&center=true&width=700&height=45&color=800000&vCenter=true&pause=1000&size=22" />
 
 </div>
 
@@ -24,13 +24,13 @@
 
 I am a Data and Business Analytics professional passionate about transforming complex data into meaningful insights that support better decision-making.
 
-I recently completed my Master's in Management Information Systems from Texas A&M University, where I strengthened my expertise in data analytics, business intelligence, database systems, cloud technologies, and technology-driven problem solving.
+I recently completed my Master's in Management Information Systems from Texas A&M University, where I developed expertise in data analytics, business intelligence, database systems, cloud technologies, and technology-driven problem solving.
 
-Prior to graduate school, I worked as a Data Analytics Associate at ZS Associates, where I partnered with cross-functional teams to solve business challenges through data analysis, reporting automation, performance analytics, segmentation, and strategic insights. My experience involved working with large datasets, developing analytical solutions, improving reporting processes, and translating data findings into actionable recommendations for stakeholders.
+Before graduate school, I worked as a Data Analytics Associate at ZS Associates, where I collaborated with cross-functional teams to solve business challenges through data analysis, reporting automation, performance analytics, segmentation, and strategic insights. My experience involved working with large datasets, developing analytical solutions, improving reporting processes, and translating data findings into actionable recommendations for stakeholders.
 
-During my time at Texas A&M University as a Research Assistant, I worked on data-driven research initiatives involving large-scale datasets, statistical analysis, visualization, and analytical storytelling. This experience strengthened my ability to clean, analyze, and interpret complex information while communicating insights clearly.
+During my time at Texas A&M University as a Research Assistant, I worked on data-driven research initiatives involving large-scale datasets, statistical analysis, visualization, and analytical storytelling. This experience strengthened my ability to extract insights from complex data, build analytical frameworks, and communicate findings effectively.
 
-I enjoy working at the intersection of data, business, and technology — whether it is building analytical solutions, designing data models, creating dashboards, improving processes, or exploring how technology can enable smarter decisions.
+I enjoy working at the intersection of data, business, and technology — whether it is developing analytical solutions, designing data models, creating dashboards, improving processes, or exploring how technology can enable smarter decisions.
 
 ---
 
@@ -84,6 +84,7 @@ I enjoy working at the intersection of data, business, and technology — whethe
 
 </div>
 
+<br>
 
 ### Analytics & Business Intelligence
 
@@ -99,7 +100,6 @@ I enjoy working at the intersection of data, business, and technology — whethe
 - KPI Reporting
 - Data Storytelling
 
-
 ### Data & Engineering
 
 - PostgreSQL
@@ -112,7 +112,6 @@ I enjoy working at the intersection of data, business, and technology — whethe
 - Data Warehousing
 - AWS
 - Cloud Computing
-
 
 ### Business & Analytics Methods
 
@@ -159,6 +158,20 @@ When I am not working with data, I enjoy:
 - 💻 Keeping up with technology trends
 - 📚 Learning about business and analytics innovations
 - 🚀 Building projects that combine technology and problem-solving
+
+---
+
+## 🤝 Professional References
+
+### Dr. Joanna Lahey
+
+📧 jlahey@tamu.edu
+
+---
+
+### Mr. Guido Chiappero
+
+📧 guido.chiappero@zs.com
 
 ---
 
