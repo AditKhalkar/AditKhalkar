@@ -180,11 +180,3 @@ Decision Analytics Manager, ZS Associates
 🔗 https://ar.linkedin.com/in/guidochiappero
 
 📧 guido.chiappero@zs.com
-
----
-
-## 📫 Let's Connect
-
-📧 Email: adit.khalkar@tamu.edu
-
-🔗 LinkedIn: https://www.linkedin.com/in/aditkhalkar18
