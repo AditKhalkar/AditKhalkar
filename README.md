@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I'm%20Adit%20Khalkar!;Data%20%26%20Business%20Analyst;Former%20ZS%20Associates%20Consultant;MS%20MIS%20at%20Texas%20A%26M%20University;Passionate%20About%20Data%2C%20Strategy%20%26%20Research&font=Fira%20Code&center=true&width=700&height=45&color=800000&vCenter=true&pause=1000&size=22" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I'm%20Adit%20Khalkar!;Data%20%26%20Business%20Analyst;Former%20ZS%20Associates%20Consultant;MS%20MIS%20Graduate%20%40%20Texas%20A%26M%20University;Turning%20Data%20Into%20Business%20Insights&font=Fira%20Code&center=true&width=750&height=45&color=800000&vCenter=true&pause=1000&size=22" />
 
 </div>
 
@@ -8,82 +8,65 @@
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/aditkhalkar18">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:adit.khalkar@tamu.edu">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 👋 About Me
+# 👋 About Me
 
-My journey started in Mumbai, where I studied Production Engineering before spending four years at ZS Associates helping pharmaceutical organizations make better commercial decisions through analytics, customer segmentation, sales operations, and business intelligence.
+I am a Data and Business Analytics professional passionate about transforming complex data into meaningful insights that support better decision-making.
 
-Today, I am pursuing a Master's in Management Information Systems at Texas A&M University while supporting labor economics and public policy research.
+I recently completed my Master's in Management Information Systems from Texas A&M University, where I strengthened my expertise in data analytics, business intelligence, database systems, cloud technologies, and technology-driven problem solving.
 
-My interests sit at the intersection of analytics, business strategy, operations, technology, and decision-making. I enjoy turning complex data into clear recommendations that help organizations make better decisions.
+Prior to graduate school, I worked as a Data Analytics Associate at ZS Associates, where I partnered with cross-functional teams to solve business challenges through data analysis, reporting automation, performance analytics, segmentation, and strategic insights. My experience involved working with large datasets, developing analytical solutions, improving reporting processes, and translating data findings into actionable recommendations for stakeholders.
+
+During my time at Texas A&M University as a Research Assistant, I worked on data-driven research initiatives involving large-scale datasets, statistical analysis, visualization, and analytical storytelling. This experience strengthened my ability to clean, analyze, and interpret complex information while communicating insights clearly.
+
+I enjoy working at the intersection of data, business, and technology — whether it is building analytical solutions, designing data models, creating dashboards, improving processes, or exploring how technology can enable smarter decisions.
 
 ---
 
 ## 🎯 Areas of Interest
 
-- 📊 Business Analytics
+- 📊 Data Analytics
 - 📈 Business Intelligence
-- 🏥 Healthcare & Life Sciences
-- 🗺️ Public Policy Research
-- 🏢 Strategy & Operations
+- 🏢 Business Strategy & Operations
+- 🔍 Decision Analytics
 - ⚙️ Process Improvement
-- ☁️ Cloud Technologies
-- 🧠 Decision Science
-
----
-
-## 🚀 Featured Work
-
-### 🏪 Point of Sale Analytics Platform
-
-Designed and deployed a cloud-hosted retail analytics environment integrating relational databases, NoSQL databases, ETL workflows, and analytical reporting.
-
-### 📊 Retail Performance Analytics
-
-Built SQL-driven analytical workflows and dashboards to uncover customer behavior, product performance, and revenue opportunities.
-
-### 📚 Labor Economics & Public Policy Research
-
-Analyzing large-scale census and labor market datasets to support economic and policy research through statistical analysis and visualization.
-
-### 🏢 Business Process Improvement
-
-Worked on projects focused on identifying operational bottlenecks, redesigning workflows, and recommending process improvements.
-
-### 🎨 Product Design & User Experience
-
-Applied user research, journey mapping, and prototyping techniques to design solutions focused on solving real user problems.
+- 🗄️ Data Engineering
+- ☁️ Cloud Analytics
+- 🤖 AI Applications in Business
+- 📉 Data Visualization & Storytelling
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-<p align="left">
+<div align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="45"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45"/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="45"/>
+
 <img src="https://skillicons.dev/icons?i=aws" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=docker" height="45"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
 
@@ -95,7 +78,53 @@ Applied user research, journey mapping, and prototyping techniques to design sol
 
 <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" height="45"/>
 
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+
+</div>
+
+
+### Analytics & Business Intelligence
+
+- SQL
+- Python
+- R
+- Excel
+- Tableau
+- Power BI
+- Data Visualization
+- Statistical Analysis
+- Dashboard Development
+- KPI Reporting
+- Data Storytelling
+
+
+### Data & Engineering
+
+- PostgreSQL
+- MySQL
+- MariaDB
+- MongoDB
+- ETL Pipelines
+- Data Modeling
+- Database Design
+- Data Warehousing
+- AWS
+- Cloud Computing
+
+
+### Business & Analytics Methods
+
+- Business Analysis
+- Process Improvement
+- Customer Segmentation
+- Predictive Analytics
+- Forecasting
+- Trend Analysis
+- Root Cause Analysis
+- Decision Support
+- Requirements Gathering
 
 ---
 
@@ -103,57 +132,38 @@ Applied user research, journey mapping, and prototyping techniques to design sol
 
 ### Texas A&M Big Event
 
-Participated in Texas A&M's largest one-day service project, helping a local family assemble a children's playset while working alongside fellow Aggies. The experience reinforced the importance of teamwork, planning, and selfless service.
+Participated in Texas A&M's largest one-day service project, working with fellow Aggies to support a local family by assembling a children's playset. This experience reinforced the importance of teamwork, planning, and selfless service.
 
 ### Baptist Student Ministry (BSM)
 
-Volunteered at Aggie BSM's *Time for Chai* event, supporting logistics, attendee coordination, venue setup, and community engagement efforts that brought students together through cultural exchange and conversation.
+Volunteered with Aggie BSM's "Time for Chai" community event by supporting venue setup, attendee coordination, logistics, and event operations. This experience strengthened my communication, collaboration, and community-building skills.
 
 ---
 
 ## 🌱 Currently Exploring
 
+- Advanced Business Intelligence Solutions
 - Data Engineering Workflows
-- Business Intelligence Strategy
-- AI Applications for Decision Support
-- Public Policy Analytics
-- Advanced SQL Optimization
+- AI Applications in Analytics
+- Cloud-Based Data Platforms
+- Modern Data Architecture
+- Analytics Automation
 
 ---
 
-## ⚽ Outside of Work
+## ⚽ Beyond Data
 
-- Watching soccer
-- Following technology and business news
-- Building analytics projects
-- Learning emerging technologies
+When I am not working with data, I enjoy:
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" />
-</p>
+- ⚽ Following soccer
+- 💻 Keeping up with technology trends
+- 📚 Learning about business and analytics innovations
+- 🚀 Building projects that combine technology and problem-solving
 
 ---
 
-## 📌 Featured Repositories
+## 📫 Let's Connect
 
-- Healthcare Market Access & Sales Analytics
-- Point of Sale System
-- Retail Performance Dashboard
-- Labor Market Research
-- Product Design & Strategy
+📧 Email: adit.khalkar@tamu.edu
 
----
-
-## 📫 Connect With Me
-
-- LinkedIn: YOUR_LINKEDIN_URL
-- Email: adit.khalkar@tamu.edu
-- Phone: (979) 739-8380
+🔗 LinkedIn: https://www.linkedin.com/in/aditkhalkar18
