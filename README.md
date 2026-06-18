@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./assets/profile.jpg" width="180" height="180" />
+
+<br><br>
+
 <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I'm%20Adit%20Khalkar!;Data%20%26%20Business%20Analyst;Turning%20Data%20Into%20Business%20Insights&font=Fira%20Code&center=true&width=700&height=45&color=800000&vCenter=true&pause=1000&size=22" />
 
 </div>
@@ -165,11 +169,19 @@ When I am not working with data, I enjoy:
 
 ### Dr. Joanna Lahey
 
+Professor, Texas A&M University
+
+🔗 https://bush.tamu.edu/faculty/jlahey/
+
 📧 jlahey@tamu.edu
 
 ---
 
 ### Mr. Guido Chiappero
+
+Decision Analytics Manager, ZS Associates
+
+🔗 https://ar.linkedin.com/in/guidochiappero
 
 📧 guido.chiappero@zs.com
 
