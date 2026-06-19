@@ -180,3 +180,13 @@ Decision Analytics Manager, ZS Associates
 🔗 https://ar.linkedin.com/in/guidochiappero
 
 📧 guido.chiappero@zs.com
+
+---
+
+### Mr. Manish Bengani
+
+Associate Program Director, Texas A&M University
+
+🔗 https://mays.tamu.edu/directory/manish-bengani/
+
+📧 manishbengani@tamu.edu
